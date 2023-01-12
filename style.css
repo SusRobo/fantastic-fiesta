@@ -1,0 +1,21 @@
+#copy_right_footer
+{
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    color: white;
+    background-color: grey;
+    line-height: 30px;
+    width: 100%;
+}
+body
+{
+    background-size: cover;
+    text-align: cenzter;
+}
+canvas
+{
+    border-radius: 10px;
+    border: 12px solid black;
+    margin-top : 111px;
+}
